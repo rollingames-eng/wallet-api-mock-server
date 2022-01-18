@@ -4383,6 +4383,8 @@ curl http://localhost:8889/v1/mock/wallets/readonly/walletlist/balances
 <a name="other-language-versions"></a>
 # Other Language Versions
 - [Javascript](https://github.com/gimcool/wallet-api-mock-server-javascript)
+- [JAVA](https://github.com/gimcool/wallet-api-mock-server-java)
+- [PHP](https://github.com/gimcool/wallet-api-mock-server-php)
 
 ##### [Back to top](#table-of-contents)
 
